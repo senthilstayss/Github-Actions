@@ -14,7 +14,7 @@ jobs:
       - name: print running multilinecommands
         run: | 
             echo "Pet name is Kutty"
-            echo: "Age: 9"
+            echo "Age: 9"
             
         
         
